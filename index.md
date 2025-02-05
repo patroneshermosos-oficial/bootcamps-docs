@@ -33,13 +33,12 @@ Las universidades locales (hosts) en donde se llevan a cabo los Bootcamps, reclu
 
 ## ¿Qué requiere la universidad para ser Anfitrión de un Bootcamp?
 
-Las universidades más prestigiosas de LATAM son principales aliadas del programa de Bootcamps de Patrones Hermosos. 
+Las universidades e institutciones anfitriones son principales aliadas del programa de Bootcamps de Patrones Hermosos. 
 Contenido 
 El contenido del curso es definido por el equipo de Patrones Hermosos. Se enfoca en dos bloques:
 - Pensamiento Algorítmico
 - Programación enfocada a desarrollo web
 
-En el siguiente enlace se podrá ver el desgloce de las actividades del programa de 2019. 
 ## Fechas y horarios
 El anfitrión podrá modificar los tiempos y logística del programa según sus necesidades y recursos (tiempo, instalaciones), etc.
 El programa en ediciones pasadas se ha llevado de la siguiente forma: 
